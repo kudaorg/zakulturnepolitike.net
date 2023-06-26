@@ -1,0 +1,5 @@
+; $Id:
+name = iSitemap
+description = Generates XML sitemaps & sitemap indices.
+package = "AA-Custom"
+core = 6.x

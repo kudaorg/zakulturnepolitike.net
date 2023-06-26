@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.zakulturnepolitike.net	TRUE	/	FALSE	1999999999	SESS0c73bc334215808c1168ac4f0c1a2538	a4e7b95d08ff02d9af8591ce0fc64073
+

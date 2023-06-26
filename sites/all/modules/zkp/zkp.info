@@ -1,0 +1,4 @@
+name = zkp
+description = "Custom module for various functions"
+core = "6.x"
+package = "AA-Custom"
